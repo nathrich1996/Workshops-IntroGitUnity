@@ -12,8 +12,8 @@ public class TestScript : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void Update() //Change value of x
     {
-        
+        ++x;
     }
 }
