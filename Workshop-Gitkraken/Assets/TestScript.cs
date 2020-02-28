@@ -18,6 +18,6 @@ public class TestScript : MonoBehaviour
     }
     void IncrementX(int n)
     {
-        x += n;
+        x += n + 1;
     }
 }
